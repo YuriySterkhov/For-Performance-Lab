@@ -2,6 +2,7 @@
 
 
 Задание 1
+
 Ответ: дистрибутивы DEB: Debian, Ubuntu; дистрибутивы RPM: Red Hat, Fedora.
 
 Задание 2
