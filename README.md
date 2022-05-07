@@ -62,8 +62,7 @@ cat meminfo|grep Inactive
 Задание 12
 
 Ответ: 
-![image](https://user-images.githubusercontent.com/101258126/167260583-cb5c5fa0-22e3-4c3d-840b-7516ca251047.png)
- 
+![image](https://user-images.githubusercontent.com/101258126/167260583-cb5c5fa0-22e3-4c3d-840b-7516ca251047.png) 
 
 Задание 13
 
