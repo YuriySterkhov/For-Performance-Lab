@@ -61,7 +61,8 @@ cat meminfo|grep Inactive
 
 Задание 12
 
-Ответ: https://github.com/YuriySterkhov/For-Performance-Lab/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2012.png
+Ответ: 
+![image](https://user-images.githubusercontent.com/101258126/167260583-cb5c5fa0-22e3-4c3d-840b-7516ca251047.png)
  
 
 Задание 13
