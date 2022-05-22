@@ -32,9 +32,9 @@ cat /proc/meminfo | grep 'Inact'
 
 Ответ:
 
-
-
-
+![image](https://user-images.githubusercontent.com/101258126/169710098-0b56a767-b820-46dc-9b35-fd5f68351d56.png)
+![image](https://user-images.githubusercontent.com/101258126/169710103-ce3753c9-317d-49b1-a55d-ee71c29eb97d.png)
+![image](https://user-images.githubusercontent.com/101258126/169710109-b812f4d3-a1f8-4e50-b492-c41f77df3a41.png)
 
 Задание 7
 
